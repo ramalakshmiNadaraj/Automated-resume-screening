@@ -1,0 +1,14 @@
+resume_screening_system/
+│
+├── app.py
+├── requirements.txt
+├── resumes/              # store uploaded resumes
+├── job_descriptions/
+├── utils/
+│   ├── parser.py
+│   ├── preprocess.py
+│   ├── skill_extractor.py
+│   ├── similarity.py
+│
+└── data/
+    └── skills.txt
